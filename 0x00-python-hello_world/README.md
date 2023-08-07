@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 # General
 Why Python programming is awesome
 Who created Python
